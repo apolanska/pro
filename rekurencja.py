@@ -17,3 +17,4 @@ lista=[1 ,2 ,3 ,4 ,5]
 wynik=sumowanie(lista)
 print(wynik)
 modyfikacja
+print("zmiana")
